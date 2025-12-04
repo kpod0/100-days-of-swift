@@ -56,7 +56,6 @@ print("Do I like Swift programming: \(likeSwiftProgramming)")
 
 print("=================================")
 // How to join strings together
-
 let startGreetings = "Hello!"
 let bye = "Bye!"
 
@@ -65,7 +64,6 @@ print(fullGreetings)
 
 print("=================================")
 // Checkpoint 1
-
 let tempC = 26.0
 let tempF = (tempC * 9) / 5 + 32
 print("\(tempC) to Fahrenheit is \(tempF).")
