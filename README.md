@@ -7,3 +7,5 @@
 [Day 04 - Complex data types (type annotations), part 2](https://github.com/kpod0/100-days-of-swift/blob/main/Playgrounds/Playground03.playground/Contents.swift)
 
 [Day 05 - Conditions](https://github.com/kpod0/100-days-of-swift/blob/main/Playgrounds/Playground04.playground/Contents.swift)
+
+[Day 06 - Loops](https://github.com/kpod0/100-days-of-swift/blob/main/Playgrounds/Playground04.playground/Contents.swift)
